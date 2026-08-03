@@ -7,6 +7,14 @@
 }
 
 #click {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+#click.active {
+  background-color: #2ecc71;
   color: red;
-  
 }
